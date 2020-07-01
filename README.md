@@ -36,8 +36,11 @@ Input model in folder named model.
 
 ## Reference
 Detection [CRAFT](https://github.com/clovaai/CRAFT-pytorch)
+
 Recognition [MORAN](https://github.com/Canjie-Luo/MORAN_v2)
+
 Synthesizing [SRNET](https://github.com/youdao-ai/SRNet)
+
 
 
 ## Result
