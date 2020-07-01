@@ -3,13 +3,13 @@ A program that automatically translates text in a video.
 
 ## Introduction
 ![image](https://github.com/SmiteFLame/VideoLocalizing/blob/master/img/image/clip_1.png)
-![image](https://github.com/SmiteFLame/VideoLocalizing/blob/master/img/image/clip_1_result.png)
+![image](https://github.com/SmiteFLame/VideoLocalizing/blob/master/img/mod/clip_1.png)
 
 ![image](https://github.com/SmiteFLame/VideoLocalizing/blob/master/img/image/clip_2.png)
-![image](https://github.com/SmiteFLame/VideoLocalizing/blob/master/img/image/clip_2_result.png)
+![image](https://github.com/SmiteFLame/VideoLocalizing/blob/master/img/mod/clip_2.png)
 
 ![image](https://github.com/SmiteFLame/VideoLocalizing/blob/master/img/image/clip_3.png)
-![image](https://github.com/SmiteFLame/VideoLocalizing/blob/master/img/image/clip_3_result.png)
+![image](https://github.com/SmiteFLame/VideoLocalizing/blob/master/img/mod/clip_3.png)
 
 ## Requirements
 ```
