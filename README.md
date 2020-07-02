@@ -3,7 +3,9 @@ A program that automatically translates text in a video.
 
 ## Introduction
 We used a deep learning model to create an automatic translation system.
+
 It was difficult to develop a deep learning model with a master's degree, so I made a program using a different model.
+
 The process of merging the text box size and the image similarity test algorithm were developed and added directly.
 
 ## Requirements
@@ -30,9 +32,15 @@ google-cloud-translate JSON file
 
 ```
 
+## Translation
+Added Google translation system to "image similarity" file. If you want to use a different translation system, you can change it.
+
+And each parameter is set at the top of each program, so it can be changed and used.
+
 ## Download Model
 You can download [model](https://drive.google.com/drive/folders/1GULPGHU9DUq-HH5kVK2a6hcxmigddstV?usp=sharing) about detection, recognition and synthesizing.
-Input model in folder named model.
+
+Input model in folder named model. If not, create a "model" file.
 
 ## Reference
 Detection [CRAFT](https://github.com/clovaai/CRAFT-pytorch)
