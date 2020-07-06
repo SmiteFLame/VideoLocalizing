@@ -2,6 +2,8 @@
 A program that automatically translates text in a video.
 
 ## Introduction
+We made it with [Kim-Mino](https://github.com/JadeBright), Seo Young-Joon, Na Ji-Yeoop
+
 We used a deep learning model to create an automatic translation system.
 
 It was difficult to develop a deep learning model with a master's degree, so I made a program using a different model.
@@ -14,7 +16,7 @@ The process of merging the text box size and the image similarity test algorithm
 - CUDA 10.x
 - cuDNN 7.6.5
 - tensorflow-gpu==1.14.0
-- [pytorch](https://pytorch.org/)
+- pytorch
 - opencv-python == 3.4.2.17
 - PyQt5==5.14.2
 - scikit-image==0.14.2
