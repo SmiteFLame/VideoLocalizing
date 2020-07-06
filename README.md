@@ -2,7 +2,7 @@
 A program that automatically translates text in a video.
 
 ## Introduction
-We made it with [Kim-Mino](https://github.com/JadeBright), Seo Young-Joon, Na Ji-Yeoop
+We made it with [Kim Min-ho](https://github.com/JadeBright), Seo Young-Joon, Na Ji-Yeoop
 
 We used a deep learning model to create an automatic translation system.
 
