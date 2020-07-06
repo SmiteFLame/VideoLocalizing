@@ -31,6 +31,7 @@ The process of merging the text box size and the image similarity test algorithm
 ```
 ffmpng
 google-cloud-translate JSON file
+k-lite-codec
 
 ```
 
