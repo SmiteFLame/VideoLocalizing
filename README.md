@@ -2,7 +2,7 @@
 A program that automatically translates text in a video.
 
 ## Introduction
-We made it with [Dong-Hyeok Yang](https://github.com/smiteflame), [Min-ho Kim](https://github.com/JadeBright), Young-Joon Seo, Ji-Yeoop Na
+We made it with [Dong-Hyeok Yang](https://github.com/smiteflame), [Min-ho Kim](https://github.com/JadeBright), Young-Joon Seo, [Ji-Yeoop Na](https://github.com/johnna963)
 
 We used a deep learning model to create an automatic translation system.
 
