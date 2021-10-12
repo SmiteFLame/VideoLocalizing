@@ -47,7 +47,7 @@ mkl-service==2.3.0
 networkx==2.4
 numpy==1.16.1
 olefile==0.46
-opencv-contrib-python==3.4.2.17
+opencv-contrib-python==3.4.7.28
 opencv-python==3.4.2.17
 opt-einsum==3.2.1
 pefile==2019.4.18
