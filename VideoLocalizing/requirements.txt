@@ -12,7 +12,7 @@ cloudpickle==1.4.1
 colorama==0.4.3
 colour==0.1.5
 cycler==0.10.0
-dask==2.15.0
+dask==2021.10.0
 decorator==4.4.2
 dominate==2.5.1
 future==0.18.2
