@@ -5,7 +5,7 @@ astor==0.7.1
 astroid==2.4.1
 Augmentor==0.2.8
 cachetools==4.1.0
-certifi==2020.4.5.1
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 cloudpickle==1.4.1
